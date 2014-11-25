@@ -1,4 +1,4 @@
-package com.anand.Utilities;
+package com.anandt.Utilities;
 
 public class PrimeNumber {
 
